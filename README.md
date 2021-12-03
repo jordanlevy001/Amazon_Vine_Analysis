@@ -29,11 +29,14 @@ The following results are based on the entire dataset:
 
 ### Results Based on Subset of Data
 The following results are based on a subset of the dataset. This subset includes reviews that meet the following criteria:
-  - Each review has 20 or more total votes
-  - Each review has 50% or more helpful votes relative to total votes
+1. Each review has 20 or more total votes
+2. Each review has 50% or more helpful votes relative to total votes
 
-
+Results:
 - There were 0 Vine reviews and 403807 non-Vine reviews out of 403807 reviews.
+- Number of 5 star Vine reviews: 0
+- Number of 5 star non-Vine reviews: 242889
+- Total number of 5 star reviews: 242889
 - 
 
 
