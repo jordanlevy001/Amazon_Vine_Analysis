@@ -24,7 +24,8 @@ The following results are based on the entire dataset:
 - 1864803 out of the 1864804 (99.99%) 5 star reviews were from non-Vine members.
 - Of the non-Vine reviews, 60% were 5 stars.
 
-<img width="852" alt="Five Star Review Breakdown" src="https://user-images.githubusercontent.com/88804543/144681393-13544ad5-a0a1-457d-b9d8-4844a6ab4ce9.png">
+<img width="843" alt="Total Number of 5 Star Reviews" src="https://user-images.githubusercontent.com/88804543/144681595-616082ff-62da-42d4-a0d0-8d1919e59faa.png">
+
 
 ### Results Based on Subset of Data
 The following results are based on a subset of the dataset. This subset includes reviews that meet the following criteria:
