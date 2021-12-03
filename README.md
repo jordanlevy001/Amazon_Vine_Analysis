@@ -50,8 +50,6 @@ The following results are based on a subset of the dataset. This subset includes
 
 
 ## Summary
-Within this dataset, there was no positivity bias for reviews in the Vine program. It is critical to highlight that less than 0.001% of the total reviews in this dataset were from Vine members. Only 2 of 3105520 reviews were from Vine members. This analysis should be repeated for other available datasets that contain a more equal distribution of Vine and non-Vine member reviews.
+Within this dataset, there was no positivity bias for reviews in the Vine program. It is critical to highlight that less than 0.001% of the total reviews in this dataset were from Vine members. Only 2 of 3105520 reviews were from Vine members, and these 2 reviews did not meet the subset criteria. Examining the non-Vine reviews, 60.15% were rated 5 stars; ~60% is a reasonable number for unpaid reviewers.
 
-
-
-
+An additional analysis was performed on the entire dataset to include the 2 Vine member reviews. But since 2 of 3105520 reviews is not enough (<0.001%), this analysis should be repeated for another available book review dataset that contains a more equal distribution of Vine and non-Vine member reviews.
