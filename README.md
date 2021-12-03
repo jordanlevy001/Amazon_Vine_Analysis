@@ -35,16 +35,18 @@ The following results are based on a subset of the dataset. This subset includes
 2. Each review has 50% or more helpful votes relative to total votes
 
 #### Results:
-- There were 0 Vine reviews and 403807 non-Vine reviews out of 403807 reviews.
+- There were 0 Vine reviews and 403807 non-Vine reviews
 - Number of 5 star Vine reviews: 0
 - Number of 5 star non-Vine reviews: 242889
 - Total number of 5 star reviews: 242889
-- 0% of the Vine reviews were 5 stars
-- 100% of the non-Vine reviews were 5 stars
+- 0% of the Vine reviews were 5 stars (there were no Vine reviews which met the subset criteria)
+- 60.15% of the non-Vine reviews were 5 stars
 
+<img width="665" alt="Screen Shot 2021-12-03 at 3 41 16 PM" src="https://user-images.githubusercontent.com/88804543/144686469-af576833-30d9-41dd-9e75-bc700dde483d.png">
 
+<img width="965" alt="Screen Shot 2021-12-03 at 3 42 05 PM" src="https://user-images.githubusercontent.com/88804543/144686513-a899c580-fe83-484d-92a3-74ce5a4c2ae0.png">
 
-
+<img width="888" alt="Screen Shot 2021-12-03 at 3 42 30 PM" src="https://user-images.githubusercontent.com/88804543/144686530-d200e0fc-a29f-4a85-8c83-7cb009f39a9d.png">
 
 
 ## Summary
