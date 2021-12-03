@@ -39,7 +39,8 @@ The following results are based on a subset of the dataset. This subset includes
 - Number of 5 star Vine reviews: 0
 - Number of 5 star non-Vine reviews: 242889
 - Total number of 5 star reviews: 242889
-- 
+- 0% of the Vine reviews were 5 stars
+- 100% of the non-Vine reviews were 5 stars
 
 
 
