@@ -7,6 +7,8 @@ For part two of this analysis, PySpark was used to determine if there was any bi
 
 ## Results
 
+### Results Based on Entire Dataset
+
 The following results are based on the entire dataset:
 
 - The [dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz) contained almost all non-Vine member reviews. Out of 3105520 reviews, only 2 were reviewed by Vine members. There were 3105513 Non-Vine member reviews in this dataset.
@@ -22,8 +24,9 @@ The following results are based on the entire dataset:
 - 1864803 out of the 1864804 (99.99%) 5 star reviews were from non-Vine members.
 - Of the non-Vine reviews, 60% were 5 stars.
 
+<img width="852" alt="Five Star Review Breakdown" src="https://user-images.githubusercontent.com/88804543/144681393-13544ad5-a0a1-457d-b9d8-4844a6ab4ce9.png">
 
-
+### Results Based on Subset of Data
 The following results are based on a subset of the dataset. This subset includes reviews that meet the following criteria:
 - Each review has 20 or more total votes
 - Each review has 50% or more helpful votes to total votes.
