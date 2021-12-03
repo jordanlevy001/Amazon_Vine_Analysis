@@ -38,7 +38,7 @@ The following results are based on a subset of the dataset. This subset includes
 
 
 ## Summary
-Within this dataset, there was no bias for reviews in the Vine program. It is critical to highlight that less than 1% of the total reviews in this dataset were from Vine members. Only 2 of 3105520 reviews were from Vine members. This analysis should be repeated for other available datasets.
+Within this dataset, there was no bias for reviews in the Vine program. It is critical to highlight that less than 0.001% of the total reviews in this dataset were from Vine members. Only 2 of 3105520 reviews were from Vine members. This analysis should be repeated for other available datasets that contain a more equal distribution of Vine and non-Vine member reviews.
 
 
 
