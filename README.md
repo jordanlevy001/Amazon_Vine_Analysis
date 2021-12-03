@@ -18,8 +18,9 @@ The following results are based on the entire dataset:
 <img width="516" alt="Number of NonVine Reviews" src="https://user-images.githubusercontent.com/88804543/144679138-0f06e42a-1093-4392-bb3c-6380198a33d0.png">
 
 - Out of the 2 Vine member reviews, 1 of them was 5 stars. So 50% of the 2 Vine member reviews were 5 stars.
-- In total, there were 1864804 5 star reviews. 1 out of the 1864804 ( ) was a Vine member. 1864803 out of the 1864804 5 star reviews were from non-Vine members.
-
+- In total, there were 1864804 5 star reviews. 1 out of the 1864804 (<0.0001%) was a Vine member. 
+- 1864803 out of the 1864804 (99.99%) 5 star reviews were from non-Vine members.
+- Of the non-Vine reviews, 60% were 5 stars.
 
 
 
