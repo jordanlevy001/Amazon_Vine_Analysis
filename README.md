@@ -7,7 +7,9 @@ For part two of this analysis, PySpark was used to determine if there was any bi
 
 ## Results
 
-- This book review [dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz) contained almost all Non-Vine member reviews. Out of 3105520 reviews, only 2 were reviewed by Vine members. There were 3105513 Non-Vine member reviews in this dataset.
+The following results are based on the entire dataset:
+
+- The [dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz) contained almost all non-Vine member reviews. Out of 3105520 reviews, only 2 were reviewed by Vine members. There were 3105513 Non-Vine member reviews in this dataset.
 
 <img width="444" alt="Total Reviews" src="https://user-images.githubusercontent.com/88804543/144679034-77668d65-58dc-4f33-825a-24e9baf4f152.png">
 
@@ -15,7 +17,24 @@ For part two of this analysis, PySpark was used to determine if there was any bi
 
 <img width="516" alt="Number of NonVine Reviews" src="https://user-images.githubusercontent.com/88804543/144679138-0f06e42a-1093-4392-bb3c-6380198a33d0.png">
 
+- Out of the 2 Vine member reviews, 1 of them was 5 stars. So 50% of the 2 Vine member reviews were 5 stars.
+- In total, there were 1864804 5 star reviews. 1 out of the 1864804 ( ) was a Vine member. 1864803 out of the 1864804 5 star reviews were from non-Vine members.
+
+
+
+
+The following results are based on a subset of the dataset. This subset includes reviews that meet the following criteria:
+- Each review has 20 or more total votes
+- Each review has 50% or more helpful votes to total votes.
+
+
+
 
 
 
 ## Summary
+Within this dataset, there was no bias for reviews in the Vine program. It is critical to highlight that less than 1% of the total reviews in this dataset were from Vine members. Only 2 of 3105520 reviews were from Vine members. This analysis should be repeated for other available datasets.
+
+
+
+
